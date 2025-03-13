@@ -3,4 +3,4 @@ Repository created by **Konstanty Kłosiewicz** for assignments from Machine Lea
 
 Assignment1: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kos261/ML25/blob/main/Lab1/Assignment1.ipynb)
 
-Assignment2: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kos261/ML25/blob/main/Lab2/Assignment2.ipynb)
+Assignment2: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kos261/ML25/blob/main/Lab2/HW2.ipynb)
