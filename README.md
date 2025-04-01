@@ -9,3 +9,5 @@ Homework2: [![Open in Colab](https://colab.research.google.com/assets/colab-badg
 Homework3: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kos261/ML25/blob/main/Lab3/HW3.ipynb)
 
 Homework4: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kos261/ML25/blob/main/Lab4/HW4.ipynb)
+
+Homework5:
