@@ -15,3 +15,6 @@ Homework5: [![Open in Colab](https://colab.research.google.com/assets/colab-badg
 Homework6: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kos261/ML25/blob/main/Lab6/HW6.ipynb)
 
 Homework7: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kos261/ML25/blob/main/Lab7/HW7.ipynb)
+
+
+Homework8: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kos261/ML25/blob/main/Lab8/HW8.ipynb)
