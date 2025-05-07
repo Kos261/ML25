@@ -18,3 +18,6 @@ Homework7: [![Open in Colab](https://colab.research.google.com/assets/colab-badg
 
 
 Homework8: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kos261/ML25/blob/main/Lab8/HW8.ipynb)
+
+
+Homework9: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kos261/ML25/blob/main/Lab9/HW9.ipynb)
