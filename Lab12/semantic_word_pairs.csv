@@ -1,51 +1,51 @@
-Class                    , Word1    , Word2
-Gender                   , king     , queen
-Gender                   , man      , woman
-Gender                   , boy      , girl
-Gender                   , father   , mother
-Gender                   , prince   , princess
-Verb Tense (Past)        , bring    , brought
-Verb Tense (Past)        , get      , got
-Verb Tense (Past)        , like     , liked
-Verb Tense (Past)        , go       , went
-Verb Tense (Past)        , run      , ran
-Comparative Adjectives   , tough    , tougher
-Comparative Adjectives   , fast     , faster
-Comparative Adjectives   , great    , greater
-Comparative Adjectives   , happy    , happier
-Comparative Adjectives   , tall     , taller
-Antonyms                 , hot      , cold
-Antonyms                 , light    , dark
-Antonyms                 , happy    , sad
-Antonyms                 , up       , down
-Antonyms                 , open     , closed
-Social Status / Condition, noble    , peasant
-Social Status / Condition, wealthy  , poor
-Social Status / Condition, healthy  , unhealthy
-Social Status / Condition, free     , enslaved
-Social Status / Condition, famous   , unknown
-Size / Quantity          , big      , small
-Size / Quantity          , few      , many
-Size / Quantity          , tiny     , huge
-Size / Quantity          , short    , long
-Size / Quantity          , narrow   , wide
-Age / Time               , young    , old
-Age / Time               , new      , ancient
-Age / Time               , recent   , past
-Age / Time               , early    , late
-Age / Time               , modern   , traditional
-Emotions / Feelings      , happiness, sorrow
-Emotions / Feelings      , anger    , calm
-Emotions / Feelings      , fear     , courage
-Emotions / Feelings      , joy      , grief
-Emotions / Feelings      , love     , hate
-Occupations / Roles      , doctor   , nurse
-Occupations / Roles      , teacher  , student
-Occupations / Roles      , boss     , employee
-Occupations / Roles      , actor    , director
-Occupations / Roles      , soldier  , general
-Motion / Action          , walk     , run
-Motion / Action          , jump     , fall
-Motion / Action          , sit      , stand
-Motion / Action          , push     , pull
-Motion / Action          , climb    , descend
+Class,Word1,Word2
+Gender,king,queen
+Gender,man,woman
+Gender,boy,girl
+Gender,father,mother
+Gender,prince,princess
+Verb Tense (Past),bring,brought
+Verb Tense (Past),get,got
+Verb Tense (Past),like,liked
+Verb Tense (Past),go,went
+Verb Tense (Past),run,ran
+Comparative Adjectives,tough,tougher
+Comparative Adjectives,fast,faster
+Comparative Adjectives,great,greater
+Comparative Adjectives,crazy,crazier
+Comparative Adjectives,tall,taller
+Antonyms,hot,cold
+Antonyms,light,dark
+Antonyms,happy,sad
+Antonyms,up,down
+Antonyms,open,closed
+Social Status / Condition,noble,peasant
+Social Status / Condition,wealthy,poor
+Social Status / Condition,healthy,unhealthy
+Social Status / Condition,free,enslaved
+Social Status / Condition,famous,unknown
+Size / Quantity,big,small
+Size / Quantity,few,many
+Size / Quantity,tiny,huge
+Size / Quantity,short,long
+Size / Quantity,narrow,wide
+Age / Time,young,old
+Age / Time,new,ancient
+Age / Time,recent,past
+Age / Time,early,late
+Age / Time,modern,traditional
+Emotions / Feelings,happiness,sorrow
+Emotions / Feelings,anger,calm
+Emotions / Feelings,fear,courage
+Emotions / Feelings,joy,grief
+Emotions / Feelings,love,hate
+Occupations / Roles,doctor,nurse
+Occupations / Roles,teacher,student
+Occupations / Roles,boss,employee
+Occupations / Roles,actor,director
+Occupations / Roles,soldier,general
+Motion / Action,walk,stay
+Motion / Action,jump,fall
+Motion / Action,sit,stand
+Motion / Action,push,pull
+Motion / Action,climb,descend
