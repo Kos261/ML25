@@ -35,3 +35,6 @@ Homework10: [![Open in Colab](https://colab.research.google.com/assets/colab-bad
 
 ### Autoencoders and understanding deconvolution
 Homework11: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kos261/ML25/blob/main/Lab11/HW11.ipynb)
+
+### Embedding Arithmetic. Does king - man + woman = queen?
+Homework12: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kos261/ML25/blob/main/Lab12/HW12.ipynb)
